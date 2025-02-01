@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative 'k_closest_points_to_origin'  # Replace 'your_file' with the file you're testing
+require_relative 'k_closest_points_to_origin'
 
 class TestExample < Test::Unit::TestCase
   def test_k_closest_
